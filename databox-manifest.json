@@ -10,10 +10,10 @@
         "on ",
         " off"
     ],
-    "homepage": "https://github.com/tlodge/databox.tutorial-hue-binary",
+    "homepage": "https://github.com/tlodge/databox.tlodge-count-light",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tlodge/databox.tutorial-hue-binary.git"
+        "url": "git+https://github.com/tlodge/databox.tlodge-count-light.git"
     },
     "packages": [
         {
